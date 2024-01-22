@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This is my personal portfolio project",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "keywords": [
+    "Portfolio",
+    "Web",
+    "Dev",
+    "Website",
+    "Developer",
+    "personal"
+  ],
+  "author": "Cruzer4k",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.35.1",
+    "parcel": "^2.11.0"
+  }
+}
